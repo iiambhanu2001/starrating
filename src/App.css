@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.active{
+  color:yellow
+}
+.hidden{
+  color: wheat;
+}
