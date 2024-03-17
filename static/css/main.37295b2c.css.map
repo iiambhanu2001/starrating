@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.37295b2c.css","mappings":"AAAA,KACE,iBACF,CAEA,QACE,UACF,CACA,QACE,WACF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n\n.active{\n  color:yellow\n}\n.hidden{\n  color: wheat;\n}"],"names":[],"sourceRoot":""}

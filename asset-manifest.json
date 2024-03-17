@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/starrating/static/css/main.37295b2c.css",
+    "main.js": "/starrating/static/js/main.a6bb7258.js",
+    "index.html": "/starrating/index.html",
+    "main.37295b2c.css.map": "/starrating/static/css/main.37295b2c.css.map",
+    "main.a6bb7258.js.map": "/starrating/static/js/main.a6bb7258.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37295b2c.css",
+    "static/js/main.a6bb7258.js"
+  ]
+}
